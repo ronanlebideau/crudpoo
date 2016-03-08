@@ -1,0 +1,46 @@
+body{
+    background-color:#259BBA;
+    color:#32CFFA;
+    font-family: Calibri, sans-serif;
+}
+a{
+    color:#32CFFA;
+    text-decoration: none;
+}
+a:hover{
+    color: #FFF;
+    text-decoration:none;
+}
+.table{
+    background-color:#18667A;
+    padding:2%;
+}
+.menubtn{
+    background-color:#18667A;
+    padding:7px;
+    border-radius:5px;
+    color:#FFF;
+    transition-duration:0.4s;
+    transition-property: background-color, color;
+}
+.menubtn:hover{
+    background-color:#FFF;
+    color:#18667A;
+}
+.submitbtn{
+    border:none;
+    font-weight:bold;
+    background-color:#18667A;
+    padding:7px;
+    border-radius:5px;
+    color:#FFF;
+    transition-duration:0.4s;
+    transition-property: background-color, color;
+}
+.submitbtn:hover{
+    background-color:#FFF;
+    color:#18667A;
+}
+th{
+    color:#FFF;
+}
